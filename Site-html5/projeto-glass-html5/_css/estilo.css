@@ -25,6 +25,7 @@ header#cabecalho img#icone {
     position: absolute;
     left: 980px;
     top: 70px;
+    
 }
 header#cabecalho {
     border-bottom:1px #606060 solid;
@@ -115,6 +116,19 @@ section#corpo {
     padding-right: 15px;
 
 
+}
+table#tabelaspec {
+    border: 1px solid #606060;
+    border-spacing: 0;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+table#tabelaspec td {
+    border: 1px solid #606060;
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
 }
 aside#lateral {
     display: block;
